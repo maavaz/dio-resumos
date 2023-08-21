@@ -12,3 +12,4 @@ Repositório para armazenar resumos sobre o Git e o GitHub do curso de versionam
 ## 📝      Resumos das Aulas📝
 |  Aulas  |   Resumos  |
 |---------|------------|
+| Aula 1  | Ver resumos|
